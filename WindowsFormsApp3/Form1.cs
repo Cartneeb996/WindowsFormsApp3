@@ -42,7 +42,7 @@ namespace WindowsFormsApp3
             triangleDrawer(gPen, A, B, C);
 
         }
-        private void recusrsion(int numberA, int numberB)
+        private void recusrsion(int numberA, int numberB)//
         {
             int numberC = numberA * numberB;
             recusrsion(numberC, numberA);
