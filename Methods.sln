@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangles", "WindowsFormsApp3\triangles.csproj", "{6A600F41-20BC-4969-810E-4D4A9246D455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A600F41-20BC-4969-810E-4D4A9246D455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A600F41-20BC-4969-810E-4D4A9246D455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A600F41-20BC-4969-810E-4D4A9246D455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A600F41-20BC-4969-810E-4D4A9246D455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327B1D74-0C5C-489B-9C9C-A64A77FD0476}
+	EndGlobalSection
+EndGlobal
